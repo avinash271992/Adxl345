@@ -5,6 +5,8 @@
 // This code is designed to work with the ADXL345_I2CS I2C Mini Module available from ControlEverything.com.
 // https://www.controleverything.com/content/Accelorometer?sku=ADXL345_I2CS#tabs-0-product_tabset-2
 
+// There is code for reading data from adxl http://ozzmaker.com/accelerometer-to-g/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <linux/i2c-dev.h>
